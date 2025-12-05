@@ -27,12 +27,6 @@ Las listas doblemente enlazadas permiten:
 - Búsqueda y recorrido
 - Ejemplos prácticos
 
----
 
-## Requisitos
-
-- Lenguaje de programación (por ejemplo: C, C++, Java, Python, etc.)
-- Editor de texto o IDE
-- Conocimientos básicos de estructuras de datos
 
 
